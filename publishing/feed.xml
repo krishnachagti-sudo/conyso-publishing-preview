@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Conyso Publishing</title>
+  <subtitle>Quiz and reference books from Conyso's sourced datasets, and the stories behind them.</subtitle>
+  <link href="https://conyso.com/publishing/feed.xml" rel="self"/>
+  <link href="https://conyso.com/publishing/"/>
+  <id>https://conyso.com/publishing/</id>
+  <updated>2026-11-14T00:00:00Z</updated>
+  <author><name>Conyso Publishing</name><uri>https://conyso.com/publishing/</uri></author>
+  <entry>
+    <title>Conyso Publishing: Myth-Busting Quiz Books, Sourced</title>
+    <link href="https://conyso.com/publishing/"/>
+    <id>https://conyso.com/publishing/</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Quiz and reference books built from Conyso&#x27;s free, sourced datasets. Play round 1 of True or Folklore? free: guess first, then see what the record says.</summary>
+  </entry>
+  <entry>
+    <title>True or Folklore? The Myth-Busting Quiz Book</title>
+    <link href="https://conyso.com/publishing/true-or-folklore.html"/>
+    <id>https://conyso.com/publishing/true-or-folklore.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>True or Folklore? puts 100 famous stories from science, history, money and the mind to the test. Coming soon. Play round 1 free while you wait.</summary>
+  </entry>
+  <entry>
+    <title>Round 1: Famous scenes | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-01.html"/>
+    <id>https://conyso.com/publishing/round-01.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 1 of True or Folklore?, famous scenes: The stories everyone has heard. A warm-up. Play free online, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 2: Who really said it? | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-02.html"/>
+    <id>https://conyso.com/publishing/round-02.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 2 of True or Folklore?: Lines pinned on the wrong person, or on nobody in particular. Play free, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 3: Famous experiments, retold | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-03.html"/>
+    <id>https://conyso.com/publishing/round-03.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 3 of True or Folklore?, famous experiments, retold: What the textbook version leaves out. Play free online, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 4: Charts and numbers | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-04.html"/>
+    <id>https://conyso.com/publishing/round-04.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 4 of True or Folklore?: Famous pictures and figures, checked against the original. Play free, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 5: Names that mislead | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-05.html"/>
+    <id>https://conyso.com/publishing/round-05.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 5 of True or Folklore?: Laws named after people who did not find them, and odder naming stories. Play free, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 6: Physics in the kitchen and the sky Quiz</title>
+    <link href="https://conyso.com/publishing/round-06.html"/>
+    <id>https://conyso.com/publishing/round-06.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 6 of True or Folklore?, physics in the kitchen and the sky: Everyday science myths. Play free online, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 7: Words and phrases | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-07.html"/>
+    <id>https://conyso.com/publishing/round-07.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 7 of True or Folklore?, words and phrases: Where the famous expressions really come from. Play free online, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 8: Jokes that became laws | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-08.html"/>
+    <id>https://conyso.com/publishing/round-08.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 8 of True or Folklore?: Satire, office humor and asides that hardened into rules. Play free, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 9: Discovery stories | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-09.html"/>
+    <id>https://conyso.com/publishing/round-09.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 9 of True or Folklore?, discovery stories: Who found what, and how the credit was shared out. Play free online, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Round 10: Money, power and policy | True or Folklore? Quiz</title>
+    <link href="https://conyso.com/publishing/round-10.html"/>
+    <id>https://conyso.com/publishing/round-10.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Round 10 of True or Folklore?, money, power and policy: Bounties, bombs and bad incentives. Play free online, then see each verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Did Archimedes shout &quot;Eureka!&quot; in the bath?</title>
+    <link href="https://conyso.com/publishing/did-archimedes-shout-eureka-in-the-bath.html"/>
+    <id>https://conyso.com/publishing/did-archimedes-shout-eureka-in-the-bath.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Archimedes shout &quot;Eureka!&quot; in the bath? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did an apple fall on Newton&#x27;s head? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-an-apple-fall-on-newtons-head.html"/>
+    <id>https://conyso.com/publishing/did-an-apple-fall-on-newtons-head.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did an apple fall on Newton&#x27;s head? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Newton himself tell the apple story? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-newton-himself-tell-the-apple-story.html"/>
+    <id>https://conyso.com/publishing/did-newton-himself-tell-the-apple-story.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Newton himself tell the apple story? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Galileo drop balls from the Leaning Tower of Pisa?</title>
+    <link href="https://conyso.com/publishing/did-galileo-drop-balls-from-the-leaning-tower-of-pisa.html"/>
+    <id>https://conyso.com/publishing/did-galileo-drop-balls-from-the-leaning-tower-of-pisa.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Galileo drop balls from the Leaning Tower of Pisa? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Pythagoras discover the Pythagorean theorem?</title>
+    <link href="https://conyso.com/publishing/did-pythagoras-discover-the-pythagorean-theorem.html"/>
+    <id>https://conyso.com/publishing/did-pythagoras-discover-the-pythagorean-theorem.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Pythagoras discover the Pythagorean theorem? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Einstein write E = mc² in his 1905 paper?</title>
+    <link href="https://conyso.com/publishing/did-einstein-write-e-mc2-in-his-1905-paper.html"/>
+    <id>https://conyso.com/publishing/did-einstein-write-e-mc2-in-his-1905-paper.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Einstein write E = mc² in his 1905 paper? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was Einstein&#x27;s Nobel Prize not for relativity?</title>
+    <link href="https://conyso.com/publishing/did-einstein-win-his-nobel-prize-for-something-other-than-relativity.html"/>
+    <id>https://conyso.com/publishing/did-einstein-win-his-nobel-prize-for-something-other-than-relativity.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Einstein win his Nobel Prize for something other than relativity? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Gordon Moore say chips double every 18 months?</title>
+    <link href="https://conyso.com/publishing/did-gordon-moore-say-chips-double-every-18-months.html"/>
+    <id>https://conyso.com/publishing/did-gordon-moore-say-chips-double-every-18-months.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Gordon Moore say chips double every 18 months? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Churchill promise &quot;blood, sweat and tears&quot;?</title>
+    <link href="https://conyso.com/publishing/did-churchill-promise-blood-sweat-and-tears.html"/>
+    <id>https://conyso.com/publishing/did-churchill-promise-blood-sweat-and-tears.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Churchill promise &quot;blood, sweat and tears&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Edward Murphy really coin Murphy&#x27;s law?</title>
+    <link href="https://conyso.com/publishing/did-edward-murphy-say-anything-that-can-go-wrong-will-go-wrong.html"/>
+    <id>https://conyso.com/publishing/did-edward-murphy-say-anything-that-can-go-wrong-will-go-wrong.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Edward Murphy say &quot;Anything that can go wrong will go wrong&quot;? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did William of Ockham write Ockham&#x27;s razor?</title>
+    <link href="https://conyso.com/publishing/did-william-of-ockham-write-entities-should-not-be-multiplied-beyond-necessity.html"/>
+    <id>https://conyso.com/publishing/did-william-of-ockham-write-entities-should-not-be-multiplied-beyond-necessity.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did William of Ockham write &quot;Entities should not be multiplied beyond necessity&quot;? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Hebb say &quot;neurons that fire together wire together&quot;?</title>
+    <link href="https://conyso.com/publishing/did-hebb-say-neurons-that-fire-together-wire-together.html"/>
+    <id>https://conyso.com/publishing/did-hebb-say-neurons-that-fire-together-wire-together.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Hebb say &quot;neurons that fire together wire together&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Mark Twain say everything looks like a nail?</title>
+    <link href="https://conyso.com/publishing/did-mark-twain-say-if-all-you-have-is-a-hammer-everything-looks-like-a-nail.html"/>
+    <id>https://conyso.com/publishing/did-mark-twain-say-if-all-you-have-is-a-hammer-everything-looks-like-a-nail.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Mark Twain say &quot;If all you have is a hammer, everything looks like a nail&quot;? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Goodhart say &quot;When a measure becomes a target&quot;?</title>
+    <link href="https://conyso.com/publishing/did-goodhart-say-when-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure.html"/>
+    <id>https://conyso.com/publishing/did-goodhart-say-when-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Goodhart say &quot;When a measure becomes a target, it ceases to be a good measure&quot;? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did a real Robert Hanlon coin Hanlon&#x27;s razor?</title>
+    <link href="https://conyso.com/publishing/did-a-real-robert-hanlon-coin-hanlons-razor.html"/>
+    <id>https://conyso.com/publishing/did-a-real-robert-hanlon-coin-hanlons-razor.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did a real Robert Hanlon coin Hanlon&#x27;s razor? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Napoleon say &quot;Never attribute to malice&quot;?</title>
+    <link href="https://conyso.com/publishing/did-napoleon-say-never-attribute-to-malice-what-can-be-explained-by-stupidity.html"/>
+    <id>https://conyso.com/publishing/did-napoleon-say-never-attribute-to-malice-what-can-be-explained-by-stupidity.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Napoleon say &quot;Never attribute to malice what can be explained by stupidity&quot;? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Godwin say whoever mentions Hitler first loses?</title>
+    <link href="https://conyso.com/publishing/did-godwin-say-whoever-mentions-hitler-first-loses.html"/>
+    <id>https://conyso.com/publishing/did-godwin-say-whoever-mentions-hitler-first-loses.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Godwin say whoever mentions Hitler first loses? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Sturgeon say &quot;Ninety percent of everything is crap&quot;?</title>
+    <link href="https://conyso.com/publishing/did-sturgeon-say-ninety-percent-of-everything-is-crap.html"/>
+    <id>https://conyso.com/publishing/did-sturgeon-say-ninety-percent-of-everything-is-crap.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Sturgeon say &quot;Ninety percent of everything is crap&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Twain or Einstein say &quot;A man with one watch&quot;?</title>
+    <link href="https://conyso.com/publishing/did-twain-or-einstein-say-a-man-with-one-watch-knows-what-time-it-is.html"/>
+    <id>https://conyso.com/publishing/did-twain-or-einstein-say-a-man-with-one-watch-knows-what-time-it-is.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Twain or Einstein say &quot;A man with one watch knows what time it is&quot;? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Kissinger say academic politics are so vicious?</title>
+    <link href="https://conyso.com/publishing/did-henry-kissinger-say-academic-politics-are-vicious-because-the-stakes-are-so-small.html"/>
+    <id>https://conyso.com/publishing/did-henry-kissinger-say-academic-politics-are-vicious-because-the-stakes-are-so-small.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Henry Kissinger say academic politics are vicious because the stakes are so small? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did 38 witnesses watch Kitty Genovese die and do nothing?</title>
+    <link href="https://conyso.com/publishing/did-38-witnesses-watch-kitty-genovese-die-and-do-nothing.html"/>
+    <id>https://conyso.com/publishing/did-38-witnesses-watch-kitty-genovese-die-and-do-nothing.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did 38 witnesses watch Kitty Genovese die and do nothing? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did the Stanford prison guards turn cruel on their own?</title>
+    <link href="https://conyso.com/publishing/did-the-stanford-prison-guards-turn-cruel-on-their-own.html"/>
+    <id>https://conyso.com/publishing/did-the-stanford-prison-guards-turn-cruel-on-their-own.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did the Stanford prison guards turn cruel on their own? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Hawthorne factory output rise whatever the lighting?</title>
+    <link href="https://conyso.com/publishing/did-hawthorne-factory-output-rise-whatever-the-lighting.html"/>
+    <id>https://conyso.com/publishing/did-hawthorne-factory-output-rise-whatever-the-lighting.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Hawthorne factory output rise whatever the lighting? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did 65% of Milgram&#x27;s volunteers give the maximum shock?</title>
+    <link href="https://conyso.com/publishing/did-65-of-milgrams-volunteers-give-the-maximum-shock.html"/>
+    <id>https://conyso.com/publishing/did-65-of-milgrams-volunteers-give-the-maximum-shock.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did 65% of Milgram&#x27;s volunteers give the maximum shock? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Milgram prove we are all six handshakes apart?</title>
+    <link href="https://conyso.com/publishing/did-milgram-prove-we-are-all-six-handshakes-apart.html"/>
+    <id>https://conyso.com/publishing/did-milgram-prove-we-are-all-six-handshakes-apart.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Milgram prove we are all six handshakes apart? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Asch&#x27;s subjects usually go along with the group?</title>
+    <link href="https://conyso.com/publishing/on-most-trials-did-aschs-subjects-go-along-with-the-wrong-answer.html"/>
+    <id>https://conyso.com/publishing/on-most-trials-did-aschs-subjects-go-along-with-the-wrong-answer.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>On most trials, did Asch&#x27;s subjects go along with the wrong answer? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does the marshmallow test predict success in life?</title>
+    <link href="https://conyso.com/publishing/does-waiting-for-a-second-marshmallow-predict-success-in-life.html"/>
+    <id>https://conyso.com/publishing/does-waiting-for-a-second-marshmallow-predict-success-in-life.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does waiting for a second marshmallow predict success in life? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did the Robbers Cave study have a failed first attempt?</title>
+    <link href="https://conyso.com/publishing/did-the-robbers-cave-study-have-a-failed-first-attempt.html"/>
+    <id>https://conyso.com/publishing/did-the-robbers-cave-study-have-a-failed-first-attempt.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did the Robbers Cave study have a failed first attempt? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was the forgetting curve based on just one person?</title>
+    <link href="https://conyso.com/publishing/was-the-forgetting-curve-based-on-just-one-person.html"/>
+    <id>https://conyso.com/publishing/was-the-forgetting-curve-based-on-just-one-person.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was the forgetting curve based on just one person? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Do we know what became of Little Albert? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/do-we-know-what-became-of-little-albert.html"/>
+    <id>https://conyso.com/publishing/do-we-know-what-became-of-little-albert.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Do we know what became of Little Albert? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Is the &quot;Mount Stupid&quot; curve from the Dunning–Kruger paper?</title>
+    <link href="https://conyso.com/publishing/is-the-mount-stupid-curve-from-the-dunning-kruger-paper.html"/>
+    <id>https://conyso.com/publishing/is-the-mount-stupid-curve-from-the-dunning-kruger-paper.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Is the &quot;Mount Stupid&quot; curve from the Dunning–Kruger paper? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Do the least skilled overrate themselves the most?</title>
+    <link href="https://conyso.com/publishing/do-the-least-skilled-people-really-overrate-themselves-the-most.html"/>
+    <id>https://conyso.com/publishing/do-the-least-skilled-people-really-overrate-themselves-the-most.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Do the least skilled people really overrate themselves the most? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Is the inverted-U curve in Yerkes and Dodson&#x27;s paper?</title>
+    <link href="https://conyso.com/publishing/is-the-famous-inverted-u-stress-curve-in-yerkes-and-dodsons-paper.html"/>
+    <id>https://conyso.com/publishing/is-the-famous-inverted-u-stress-curve-in-yerkes-and-dodsons-paper.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Is the famous inverted-U stress curve in Yerkes and Dodson&#x27;s paper? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Maslow draw the pyramid of needs? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-maslow-draw-the-pyramid-of-needs.html"/>
+    <id>https://conyso.com/publishing/did-maslow-draw-the-pyramid-of-needs.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Maslow draw the pyramid of needs? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Abraham Wald draw the famous bullet-hole plane?</title>
+    <link href="https://conyso.com/publishing/did-abraham-wald-draw-the-famous-bullet-hole-plane.html"/>
+    <id>https://conyso.com/publishing/did-abraham-wald-draw-the-famous-bullet-hole-plane.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Abraham Wald draw the famous bullet-hole plane? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Wald say to armor where planes weren&#x27;t hit?</title>
+    <link href="https://conyso.com/publishing/did-wald-really-tell-the-military-to-armor-where-returning-planes-werent-hit.html"/>
+    <id>https://conyso.com/publishing/did-wald-really-tell-the-military-to-armor-where-returning-planes-werent-hit.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Wald really tell the military to armor where returning planes weren&#x27;t hit? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was Benford&#x27;s law first spotted in worn logarithm tables?</title>
+    <link href="https://conyso.com/publishing/was-benfords-law-first-spotted-in-worn-logarithm-tables.html"/>
+    <id>https://conyso.com/publishing/was-benfords-law-first-spotted-in-worn-logarithm-tables.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was Benford&#x27;s law first spotted in worn logarithm tables? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did vos Savant&#x27;s Monty Hall answer draw a storm?</title>
+    <link href="https://conyso.com/publishing/did-marilyn-vos-savants-correct-monty-hall-answer-draw-a-storm-of-objections.html"/>
+    <id>https://conyso.com/publishing/did-marilyn-vos-savants-correct-monty-hall-answer-draw-a-storm-of-objections.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Marilyn vos Savant&#x27;s correct Monty Hall answer draw a storm of objections? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Stigler credit Stigler&#x27;s law to someone else?</title>
+    <link href="https://conyso.com/publishing/did-stigler-credit-stiglers-law-to-someone-else.html"/>
+    <id>https://conyso.com/publishing/did-stigler-credit-stiglers-law-to-someone-else.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Stigler credit Stigler&#x27;s law to someone else? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Maxwell write the four Maxwell&#x27;s equations?</title>
+    <link href="https://conyso.com/publishing/did-maxwell-write-the-four-maxwells-equations.html"/>
+    <id>https://conyso.com/publishing/did-maxwell-write-the-four-maxwells-equations.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Maxwell write the four Maxwell&#x27;s equations? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Thomas Gresham formulate Gresham&#x27;s law?</title>
+    <link href="https://conyso.com/publishing/did-thomas-gresham-formulate-greshams-law.html"/>
+    <id>https://conyso.com/publishing/did-thomas-gresham-formulate-greshams-law.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Thomas Gresham formulate Gresham&#x27;s law? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was Hubble the first to find Hubble&#x27;s law? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/was-hubble-the-first-to-find-hubbles-law.html"/>
+    <id>https://conyso.com/publishing/was-hubble-the-first-to-find-hubbles-law.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was Hubble the first to find Hubble&#x27;s law? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does Laffer himself say the Laffer curve wasn&#x27;t his idea?</title>
+    <link href="https://conyso.com/publishing/does-laffer-himself-say-the-laffer-curve-wasnt-his-idea.html"/>
+    <id>https://conyso.com/publishing/does-laffer-himself-say-the-laffer-curve-wasnt-his-idea.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does Laffer himself say the Laffer curve wasn&#x27;t his idea? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was the Overton window named only after Overton&#x27;s death?</title>
+    <link href="https://conyso.com/publishing/was-the-overton-window-named-only-after-overtons-death.html"/>
+    <id>https://conyso.com/publishing/was-the-overton-window-named-only-after-overtons-death.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was the Overton window named only after Overton&#x27;s death? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Is Baader-Meinhof named after a militant group?</title>
+    <link href="https://conyso.com/publishing/is-the-baader-meinhof-phenomenon-named-after-a-militant-group.html"/>
+    <id>https://conyso.com/publishing/is-the-baader-meinhof-phenomenon-named-after-a-militant-group.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Is the Baader–Meinhof phenomenon named after a militant group? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Is &quot;Muphry&#x27;s law&quot; misspelled on purpose? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/is-muphrys-law-misspelled-on-purpose.html"/>
+    <id>https://conyso.com/publishing/is-muphrys-law-misspelled-on-purpose.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Is &quot;Muphry&#x27;s law&quot; misspelled on purpose? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does the Coriolis effect decide which way a sink drains?</title>
+    <link href="https://conyso.com/publishing/does-the-coriolis-effect-decide-which-way-a-sink-drains.html"/>
+    <id>https://conyso.com/publishing/does-the-coriolis-effect-decide-which-way-a-sink-drains.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does the Coriolis effect decide which way a sink drains? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Is the uncertainty principle just about measuring?</title>
+    <link href="https://conyso.com/publishing/is-the-uncertainty-principle-just-about-measuring-disturbing-things.html"/>
+    <id>https://conyso.com/publishing/is-the-uncertainty-principle-just-about-measuring-disturbing-things.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Is the uncertainty principle just about measuring disturbing things? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was Schrödinger&#x27;s cat meant to look absurd?</title>
+    <link href="https://conyso.com/publishing/was-schrodingers-cat-meant-to-make-a-quantum-idea-look-absurd.html"/>
+    <id>https://conyso.com/publishing/was-schrodingers-cat-meant-to-make-a-quantum-idea-look-absurd.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was Schrödinger&#x27;s cat meant to make a quantum idea look absurd? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did vortex shedding bring down the Tacoma Narrows Bridge?</title>
+    <link href="https://conyso.com/publishing/did-vortex-shedding-bring-down-the-tacoma-narrows-bridge.html"/>
+    <id>https://conyso.com/publishing/did-vortex-shedding-bring-down-the-tacoma-narrows-bridge.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did vortex shedding bring down the Tacoma Narrows Bridge? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does air over a wing speed up to meet the air underneath?</title>
+    <link href="https://conyso.com/publishing/does-air-over-a-wing-speed-up-to-meet-the-air-underneath.html"/>
+    <id>https://conyso.com/publishing/does-air-over-a-wing-speed-up-to-meet-the-air-underneath.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does air over a wing speed up to meet the air underneath? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does hot water freeze faster than cold? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/does-hot-water-freeze-faster-than-cold.html"/>
+    <id>https://conyso.com/publishing/does-hot-water-freeze-faster-than-cold.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does hot water freeze faster than cold? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does a broken bone heal back stronger? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/does-a-broken-bone-heal-back-stronger.html"/>
+    <id>https://conyso.com/publishing/does-a-broken-bone-heal-back-stronger.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does a broken bone heal back stronger? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Thomas Young shine light through two slits?</title>
+    <link href="https://conyso.com/publishing/did-thomas-young-shine-light-through-two-slits.html"/>
+    <id>https://conyso.com/publishing/did-thomas-young-shine-light-through-two-slits.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Thomas Young shine light through two slits? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was the Doppler effect tested with trumpeters on a train?</title>
+    <link href="https://conyso.com/publishing/was-the-doppler-effect-tested-with-trumpeters-on-a-train.html"/>
+    <id>https://conyso.com/publishing/was-the-doppler-effect-tested-with-trumpeters-on-a-train.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was the Doppler effect tested with trumpeters on a train? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Does &quot;red herring&quot; come from training hounds?</title>
+    <link href="https://conyso.com/publishing/does-red-herring-come-from-training-hounds-with-smoked-fish.html"/>
+    <id>https://conyso.com/publishing/does-red-herring-come-from-training-hounds-with-smoked-fish.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Does &quot;red herring&quot; come from training hounds with smoked fish? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Is the &quot;invisible hand&quot; the heart of Adam Smith&#x27;s economics?</title>
+    <link href="https://conyso.com/publishing/is-the-invisible-hand-the-heart-of-adam-smiths-economics.html"/>
+    <id>https://conyso.com/publishing/is-the-invisible-hand-the-heart-of-adam-smiths-economics.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Is the &quot;invisible hand&quot; the heart of Adam Smith&#x27;s economics? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Say write &quot;supply creates its own demand&quot;?</title>
+    <link href="https://conyso.com/publishing/did-say-write-supply-creates-its-own-demand.html"/>
+    <id>https://conyso.com/publishing/did-say-write-supply-creates-its-own-demand.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Say write &quot;supply creates its own demand&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did habeas corpus come from Magna Carta? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-habeas-corpus-come-from-magna-carta.html"/>
+    <id>https://conyso.com/publishing/did-habeas-corpus-come-from-magna-carta.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did habeas corpus come from Magna Carta? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Rousseau coin &quot;the noble savage&quot;? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-rousseau-coin-the-noble-savage.html"/>
+    <id>https://conyso.com/publishing/did-rousseau-coin-the-noble-savage.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Rousseau coin &quot;the noble savage&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Clausewitz coin &quot;the fog of war&quot;? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-clausewitz-coin-the-fog-of-war.html"/>
+    <id>https://conyso.com/publishing/did-clausewitz-coin-the-fog-of-war.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Clausewitz coin &quot;the fog of war&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was the acronym &quot;MAD&quot; a critic&#x27;s jibe? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/was-the-acronym-mad-a-critics-jibe.html"/>
+    <id>https://conyso.com/publishing/was-the-acronym-mad-a-critics-jibe.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was the acronym &quot;MAD&quot; a critic&#x27;s jibe? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was &quot;moving the goalposts&quot; used in Parliament a century ago?</title>
+    <link href="https://conyso.com/publishing/was-moving-the-goalposts-used-in-parliament-a-century-ago.html"/>
+    <id>https://conyso.com/publishing/was-moving-the-goalposts-used-in-parliament-a-century-ago.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was &quot;moving the goalposts&quot; used in Parliament a century ago? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Weber write &quot;iron cage&quot;? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-weber-write-iron-cage.html"/>
+    <id>https://conyso.com/publishing/did-weber-write-iron-cage.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Weber write &quot;iron cage&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Richard Dawkins coin the word &quot;meme&quot;? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-richard-dawkins-coin-the-word-meme.html"/>
+    <id>https://conyso.com/publishing/did-richard-dawkins-coin-the-word-meme.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Richard Dawkins coin the word &quot;meme&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Parkinson&#x27;s law begin as a joke in The Economist?</title>
+    <link href="https://conyso.com/publishing/did-parkinsons-law-begin-as-a-joke-in-the-economist.html"/>
+    <id>https://conyso.com/publishing/did-parkinsons-law-begin-as-a-joke-in-the-economist.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Parkinson&#x27;s law begin as a joke in The Economist? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was the Peter Principle written as satire? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/was-the-peter-principle-written-as-satire.html"/>
+    <id>https://conyso.com/publishing/was-the-peter-principle-written-as-satire.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was the Peter Principle written as satire? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was there a real committee that argued over a bike shed?</title>
+    <link href="https://conyso.com/publishing/was-there-a-real-committee-that-argued-over-a-bike-shed.html"/>
+    <id>https://conyso.com/publishing/was-there-a-real-committee-that-argued-over-a-bike-shed.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was there a real committee that argued over a bike shed? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Brooks admit his own law was an oversimplification?</title>
+    <link href="https://conyso.com/publishing/did-brooks-admit-his-own-law-was-an-oversimplification.html"/>
+    <id>https://conyso.com/publishing/did-brooks-admit-his-own-law-was-an-oversimplification.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Brooks admit his own law was an oversimplification? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Clarke add his magic law years later?</title>
+    <link href="https://conyso.com/publishing/did-clarke-add-any-sufficiently-advanced-technology-is-indistinguishable-from-magic-years-later.html"/>
+    <id>https://conyso.com/publishing/did-clarke-add-any-sufficiently-advanced-technology-is-indistinguishable-from-magic-years-later.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Clarke add &quot;Any sufficiently advanced technology is indistinguishable from magic&quot; years later? Guess first, then see the verdict and its source.</summary>
+  </entry>
+  <entry>
+    <title>Has toast landing butter-side down been studied seriously?</title>
+    <link href="https://conyso.com/publishing/has-toast-landing-butter-side-down-been-studied-seriously.html"/>
+    <id>https://conyso.com/publishing/has-toast-landing-butter-side-down-been-studied-seriously.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Has toast landing butter-side down been studied seriously? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Harvard Business Review reject Conway&#x27;s law?</title>
+    <link href="https://conyso.com/publishing/did-harvard-business-review-reject-conways-law.html"/>
+    <id>https://conyso.com/publishing/did-harvard-business-review-reject-conways-law.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Harvard Business Review reject Conway&#x27;s law? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Philip Greenspun write rules one to nine?</title>
+    <link href="https://conyso.com/publishing/did-philip-greenspun-write-rules-one-to-nine.html"/>
+    <id>https://conyso.com/publishing/did-philip-greenspun-write-rules-one-to-nine.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Philip Greenspun write rules one to nine? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Kelly Johnson coin &quot;Keep it simple, stupid&quot;?</title>
+    <link href="https://conyso.com/publishing/did-kelly-johnson-coin-keep-it-simple-stupid.html"/>
+    <id>https://conyso.com/publishing/did-kelly-johnson-coin-keep-it-simple-stupid.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Kelly Johnson coin &quot;Keep it simple, stupid&quot;? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Fermi pose the Fermi paradox over lunch?</title>
+    <link href="https://conyso.com/publishing/did-fermi-pose-the-fermi-paradox-over-lunch.html"/>
+    <id>https://conyso.com/publishing/did-fermi-pose-the-fermi-paradox-over-lunch.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Fermi pose the Fermi paradox over lunch? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was Photo 51 taken by Raymond Gosling? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/was-photo-51-taken-by-raymond-gosling.html"/>
+    <id>https://conyso.com/publishing/was-photo-51-taken-by-raymond-gosling.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was Photo 51 taken by Raymond Gosling? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Watson and Crick steal Rosalind Franklin&#x27;s data?</title>
+    <link href="https://conyso.com/publishing/did-watson-and-crick-steal-rosalind-franklins-data.html"/>
+    <id>https://conyso.com/publishing/did-watson-and-crick-steal-rosalind-franklins-data.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Watson and Crick steal Rosalind Franklin&#x27;s data? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Philippa Foot invent the trolley problem?</title>
+    <link href="https://conyso.com/publishing/did-philippa-foot-invent-the-trolley-problem.html"/>
+    <id>https://conyso.com/publishing/did-philippa-foot-invent-the-trolley-problem.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Philippa Foot invent the trolley problem? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was Wegener the first to notice the continents fit together?</title>
+    <link href="https://conyso.com/publishing/was-wegener-the-first-to-notice-the-continents-fit-together.html"/>
+    <id>https://conyso.com/publishing/was-wegener-the-first-to-notice-the-continents-fit-together.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was Wegener the first to notice the continents fit together? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was umami discovered in a seaweed broth? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/was-umami-discovered-in-a-seaweed-broth.html"/>
+    <id>https://conyso.com/publishing/was-umami-discovered-in-a-seaweed-broth.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was umami discovered in a seaweed broth? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Mendeleev invent the periodic table alone?</title>
+    <link href="https://conyso.com/publishing/did-mendeleev-invent-the-periodic-table-alone.html"/>
+    <id>https://conyso.com/publishing/did-mendeleev-invent-the-periodic-table-alone.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Mendeleev invent the periodic table alone? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Were Mendel&#x27;s pea results too good to be true?</title>
+    <link href="https://conyso.com/publishing/were-mendels-pea-results-too-good-to-be-true.html"/>
+    <id>https://conyso.com/publishing/were-mendels-pea-results-too-good-to-be-true.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Were Mendel&#x27;s pea results too good to be true? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Gauss guess the prime number theorem as a teenager?</title>
+    <link href="https://conyso.com/publishing/did-gauss-guess-the-prime-number-theorem-as-a-teenager.html"/>
+    <id>https://conyso.com/publishing/did-gauss-guess-the-prime-number-theorem-as-a-teenager.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Gauss guess the prime number theorem as a teenager? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Hooke publish his law as an anagram? True or Folklore?</title>
+    <link href="https://conyso.com/publishing/did-hooke-publish-his-law-as-an-anagram.html"/>
+    <id>https://conyso.com/publishing/did-hooke-publish-his-law-as-an-anagram.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Hooke publish his law as an anagram? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Was the 1919 eclipse a clean proof of Einstein?</title>
+    <link href="https://conyso.com/publishing/was-the-1919-eclipse-a-clean-proof-of-einstein.html"/>
+    <id>https://conyso.com/publishing/was-the-1919-eclipse-a-clean-proof-of-einstein.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Was the 1919 eclipse a clean proof of Einstein? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did a cobra bounty in Delhi breed more cobras?</title>
+    <link href="https://conyso.com/publishing/did-a-cobra-bounty-in-delhi-breed-more-cobras.html"/>
+    <id>https://conyso.com/publishing/did-a-cobra-bounty-in-delhi-breed-more-cobras.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did a cobra bounty in Delhi breed more cobras? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did a French bounty on rat tails in Hanoi backfire?</title>
+    <link href="https://conyso.com/publishing/did-a-french-bounty-on-rat-tails-in-hanoi-backfire.html"/>
+    <id>https://conyso.com/publishing/did-a-french-bounty-on-rat-tails-in-hanoi-backfire.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did a French bounty on rat tails in Hanoi backfire? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did better steam engines make Britain burn more coal?</title>
+    <link href="https://conyso.com/publishing/did-more-efficient-steam-engines-make-britain-burn-more-coal.html"/>
+    <id>https://conyso.com/publishing/did-more-efficient-steam-engines-make-britain-burn-more-coal.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did more efficient steam engines make Britain burn more coal? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did broken windows cause New York&#x27;s 1990s crime drop?</title>
+    <link href="https://conyso.com/publishing/did-broken-windows-policing-cause-new-yorks-1990s-crime-drop.html"/>
+    <id>https://conyso.com/publishing/did-broken-windows-policing-cause-new-yorks-1990s-crime-drop.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did broken-windows policing cause New York&#x27;s 1990s crime drop? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did the Sydney Opera House open a decade late?</title>
+    <link href="https://conyso.com/publishing/did-the-sydney-opera-house-open-a-decade-late-and-vastly-over-budget.html"/>
+    <id>https://conyso.com/publishing/did-the-sydney-opera-house-open-a-decade-late-and-vastly-over-budget.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did the Sydney Opera House open a decade late and vastly over budget? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Hardin say the tragedy of the commons missed a word?</title>
+    <link href="https://conyso.com/publishing/did-hardin-later-admit-the-tragedy-of-the-commons-was-missing-a-word.html"/>
+    <id>https://conyso.com/publishing/did-hardin-later-admit-the-tragedy-of-the-commons-was-missing-a-word.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Hardin later admit the tragedy of the commons was missing a word? Guess first, then see the verdict and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>Did Garrett Hardin invent the overgrazed-pasture parable?</title>
+    <link href="https://conyso.com/publishing/did-garrett-hardin-invent-the-overgrazed-pasture-parable.html"/>
+    <id>https://conyso.com/publishing/did-garrett-hardin-invent-the-overgrazed-pasture-parable.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Did Garrett Hardin invent the overgrazed-pasture parable? Make your call, then see the verdict, the one fact worth repeating and the source that settles it.</summary>
+  </entry>
+  <entry>
+    <title>The Law Tome Series: Quiz Books From the Law Tome</title>
+    <link href="https://conyso.com/publishing/law-tome-series.html"/>
+    <id>https://conyso.com/publishing/law-tome-series.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>The Law Tome series from Conyso Publishing: quiz and reference books built from the Law Tome, a free, sourced directory of named laws and effects.</summary>
+  </entry>
+  <entry>
+    <title>The Bias Atlas Series: Books From the Bias Atlas</title>
+    <link href="https://conyso.com/publishing/bias-atlas-series.html"/>
+    <id>https://conyso.com/publishing/bias-atlas-series.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>The Bias Atlas series from Conyso Publishing: books built from the Bias Atlas, Conyso&#x27;s free, sourced map of cognitive biases. No titles announced yet.</summary>
+  </entry>
+  <entry>
+    <title>Krishna Chagti, Editor of Conyso Publishing</title>
+    <link href="https://conyso.com/publishing/editor.html"/>
+    <id>https://conyso.com/publishing/editor.html</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <summary>Krishna Chagti, founder of Conyso, edits the books from Conyso Publishing. How each book is drafted with AI and checked against its sources.</summary>
+  </entry>
+</feed>
