@@ -72,8 +72,10 @@
   document.querySelectorAll('[data-share]').forEach(function (b) {
     b.addEventListener('click', function () {
       var url = location.href.split('#')[0], title = b.getAttribute('data-title') || document.title;
+      var sc = document.querySelector('[data-score]');
+      if (b.hasAttribute('data-share-score') && sc && /\d/.test(sc.textContent)) title = 'I got ' + sc.textContent + ' right on ' + title + '.';
       if (navigator.share) { navigator.share({ title: title, text: title + ' True, folklore or disputed?', url: url }).catch(function () {}); return; }
-      if (navigator.clipboard) navigator.clipboard.writeText(url).then(function () {
+      if (navigator.clipboard) navigator.clipboard.writeText(b.hasAttribute('data-share-score') ? title + ' ' + url : url).then(function () {
         var ok = document.querySelector('[data-share-ok]'); if (ok) { ok.hidden = false; setTimeout(function () { ok.hidden = true; }, 2500); }
       });
     });

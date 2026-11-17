@@ -20,7 +20,7 @@ Playing at a table?
 
 Read each question aloud. Everyone writes TRUE, FOLKLORE or DISPUTED before anyone taps. One point for each right call; DISPUTED only scores if the call was DISPUTED. The book has a two-team scoresheet for this.
 
-Print this round Questions first, then an answer key on its own page.
+Print this round Share your score Copied Questions first, then an answer key on its own page.
 
 ![Cartoon for the question: Did Archimedes shout "Eureka!" in the bath?](https://conyso.com/publishing/art/001.png)
 
@@ -34,7 +34,7 @@ Round 1 · No. 1
 
 Tell someone: Archimedes did state the law of buoyancy, but the bath and the "Eureka!" almost certainly come from Vitruvius, writing some two centuries later.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [Vitruvius, Gwilt translation, LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/9*.html)
 - [Scientific American](https://www.scientificamerican.com/article/fact-or-fiction-archimede/)
@@ -54,7 +54,7 @@ Round 1 · No. 2
 
 Tell someone: According to *Britannica*, Newton's own recollection includes an apple but no bump; the hit on the head was a later embellishment.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [Stukeley transcription, physics.info](https://physics.info/gravitation/quote-newton.shtml)
 - [Scientific American](https://www.scientificamerican.com/blog/observations/whats-the-real-story-with-newton-and-the-apple-see-for-yourself/)
@@ -73,7 +73,7 @@ Round 1 · No. 3
 
 Tell someone: Newton himself told of the apple, according to *Britannica*; only the bump on the head was added later.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [Stukeley transcription, physics.info](https://physics.info/gravitation/quote-newton.shtml)
 - [Scientific American](https://www.scientificamerican.com/blog/observations/whats-the-real-story-with-newton-and-the-apple-see-for-yourself/)
@@ -93,7 +93,7 @@ Round 1 · No. 4
 
 Tell someone: The tower drop is likely a legend; Galileo's documented work on falling bodies rolled balls down ramps and timed them with a water clock.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - ["Galileo's Leaning Tower of Pisa experiment," Wikipedia](https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment)
 - ["Two New Sciences," Wikipedia](https://en.wikipedia.org/wiki/Two_New_Sciences)
@@ -112,7 +112,7 @@ Round 1 · No. 5
 
 Tell someone: A Babylonian tablet from around 1800 BC already lists Pythagorean triples, more than a thousand years before Pythagoras was born.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - ["Plimpton 322," Wikipedia](https://en.wikipedia.org/wiki/Plimpton_322)
 - ["Pythagorean theorem," Wikipedia](https://en.wikipedia.org/wiki/Pythagorean_theorem)
@@ -131,7 +131,7 @@ Round 1 · No. 6
 
 Tell someone: Look for E = mc² in Einstein's 1905 paper and it isn't there: he set out the mass-energy relation in a sentence.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [Einstein (1905), English translation, fourmilab](https://www.fourmilab.ch/etexts/einstein/E_mc2/www/)
 
@@ -149,7 +149,7 @@ Round 1 · No. 7
 
 Tell someone: Einstein's Nobel was not for relativity: the prize designated for 1921 named his law of the photoelectric effect.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [NobelPrize.org](https://www.nobelprize.org/prizes/physics/1921/summary/)
 - [APS Physics 18, 12](https://physics.aps.org/articles/v18/12)
@@ -169,7 +169,7 @@ Round 1 · No. 8
 
 Tell someone: Gordon Moore predicted a doubling roughly every year in 1965 and every two years in 1975; the 18 months was David House's.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [Computer History Museum](https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/)
 - ["Moore's law," Wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law)
@@ -188,7 +188,7 @@ Round 1 · No. 9
 
 Tell someone: Churchill offered "blood, toil, tears and sweat" in May 1940: four items, and "toil" is the word that dropped out.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - [Hansard, HC Deb 13 May 1940](https://api.parliament.uk/historic-hansard/commons/1940/may/13/his-majestys-government-1)
 
@@ -206,7 +206,7 @@ Round 1 · No. 10
 
 Tell someone: Who first said Murphy's law is disputed; its earliest firm printing under his name, in 1952, credits an unnamed physicist.
 
-Checked on 12 November 2026 against
+The book's full answer was checked on 12 November 2026 against
 
 - ["Murphy's law," Wikipedia](https://en.wikipedia.org/wiki/Murphy%27s_law)
 

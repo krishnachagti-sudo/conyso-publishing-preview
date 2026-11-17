@@ -12,6 +12,8 @@ Quiz and reference books built from sourced records. Checked before print. Corre
 
 SOURCED · CHECKED · CORRECTED
 
+[Play a free round](https://conyso.com/publishing/true-or-folklore-round-1.html) [See book 1](https://conyso.com/publishing/true-or-folklore.html)
+
 ![The cover of True or Folklore?, book 1](https://conyso.com/publishing/art/cover.png)
 
 Book 1 · Coming soon
@@ -20,7 +22,7 @@ Book 1 · Coming soon
 
 Books that take a famous claim and check it: the named laws people quote, the stories told about how they were found, and the thinking errors that make the stories stick.
 
-Conyso keeps two free reference sets online. [The Law Tome](https://conyso.com/lawtome/) covers 1,116 named laws, effects and principles. [The Bias Atlas](https://conyso.com/biases/) covers 544 cognitive biases and which findings held up. Every entry in both names its sources. The imprint turns those records into books for a game night, a classroom or a shelf. The datasets stay free; the books are what you read away from a screen.
+Conyso keeps two free reference sets online. [The Law Tome](https://conyso.com/lawtome/) covers 1,116 named laws, effects and principles: the laws of science and everyday life, like Murphy's law or Newton's, not legal statutes. [The Bias Atlas](https://conyso.com/biases/) covers 544 cognitive biases and which findings held up. Every entry in both names its sources. The imprint turns those records into books for a game night, a classroom or a shelf. The datasets stay free; the books are what you read away from a screen.
 
 ## How is a book made?
 
